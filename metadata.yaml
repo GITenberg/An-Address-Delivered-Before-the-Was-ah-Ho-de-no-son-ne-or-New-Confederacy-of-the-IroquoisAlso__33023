@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33023#An-Address-Delivered-Before-the-Was-ah-Ho-de-no-son-ne-or-New-Confederacy-of-the-IroquoisAlso_
 gutenberg_issued: '2010-06-29'
 gutenberg_type: Text
 identifiers:
