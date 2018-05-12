@@ -1,0 +1,40 @@
+_repo: An-Address-Delivered-Before-the-Was-ah-Ho-de-no-son-ne-or-New-Confederacy-of-the-IroquoisAlso__33023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hosmer, William H. C. (William Howe Cuyler)
+    alias: Hosmer, W. H. C. (William Howe Cuyler)
+    birthdate: 1814
+    deathdate: 1877
+    gutenberg_agent_id: '36168'
+    url: http://www.gutenberg.org/2009/agents/36168
+  - agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2010-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33023'
+  lccn: '02016463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Iroquois Indians -- Poetry'
+- !lcsh 'Iroquois Indians'
+- !lcc 'PS'
+title: 'An Address, Delivered Before the Was-ah Ho-de-no-son-ne or New Confederacy
+  of the Iroquois
+
+  Also, Genundewah, a Poem'
+url: http://www.gutenberg.org/ebooks/33023
